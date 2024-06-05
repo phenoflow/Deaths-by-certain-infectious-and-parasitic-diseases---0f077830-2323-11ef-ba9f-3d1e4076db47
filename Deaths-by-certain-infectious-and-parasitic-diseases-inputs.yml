@@ -1,0 +1,612 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-rickettsia---secondary.py
+inputModule3:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-hansens---secondary.py
+inputModule4:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-tinea---secondary.py
+inputModule5:
+  class: File
+  path: python/classical-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule6:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-retrovirus---secondary.py
+inputModule7:
+  class: File
+  path: python/adenoviral-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule8:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-biovar---secondary.py
+inputModule9:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-neurosyphilis---secondary.py
+inputModule10:
+  class: File
+  path: python/epidemic-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule11:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-influenzae---secondary.py
+inputModule12:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-candidiasis---secondary.py
+inputModule13:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-coronavirus---secondary.py
+inputModule14:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-meningoencephalitis---secondary.py
+inputModule15:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-shigellosis---secondary.py
+inputModule16:
+  class: File
+  path: python/staphylococcal-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule17:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-hookworm---secondary.py
+inputModule18:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-subacute---secondary.py
+inputModule19:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-listeriosis---secondary.py
+inputModule20:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-granulosus---secondary.py
+inputModule21:
+  class: File
+  path: python/cytomegaloviral-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule22:
+  class: File
+  path: python/subcutaneous-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule23:
+  class: File
+  path: python/histological-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule24:
+  class: File
+  path: python/other-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule25:
+  class: File
+  path: python/mycobacterial-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule26:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-fluke---secondary.py
+inputModule27:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-brucella---secondary.py
+inputModule28:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-trichuriasis---secondary.py
+inputModule29:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-legionnaire---secondary.py
+inputModule30:
+  class: File
+  path: python/superficial-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule31:
+  class: File
+  path: python/periurethral-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule32:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-cryptococcosis---secondary.py
+inputModule33:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-intestine---secondary.py
+inputModule34:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-simplex---secondary.py
+inputModule35:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-classif---secondary.py
+inputModule36:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-malariae---secondary.py
+inputModule37:
+  class: File
+  path: python/arenaviral-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule38:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-piedra---secondary.py
+inputModule39:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-schistosom---secondary.py
+inputModule40:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-relapsing---secondary.py
+inputModule41:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-salmonella---secondary.py
+inputModule42:
+  class: File
+  path: python/gonococcal-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule43:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-origin---secondary.py
+inputModule44:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-dengue---secondary.py
+inputModule45:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-filariasis---secondary.py
+inputModule46:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-equine---secondary.py
+inputModule47:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-lymph---secondary.py
+inputModule48:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-dracunculiasis---secondary.py
+inputModule49:
+  class: File
+  path: python/tuberculoid-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule50:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-mycosis---secondary.py
+inputModule51:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-involvement---secondary.py
+inputModule52:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-stomatitis---secondary.py
+inputModule53:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-leptospirosis---secondary.py
+inputModule54:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-tularaemia---secondary.py
+inputModule55:
+  class: File
+  path: python/nervous-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule56:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-disseminated---secondary.py
+inputModule57:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-falciparum---secondary.py
+inputModule58:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-shigella---secondary.py
+inputModule59:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-humanus---secondary.py
+inputModule60:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-typhu---secondary.py
+inputModule61:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-helminthiasis---secondary.py
+inputModule62:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-lesion---secondary.py
+inputModule63:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-confirm---secondary.py
+inputModule64:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-mumps---secondary.py
+inputModule65:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-unspec---secondary.py
+inputModule66:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-plague---secondary.py
+inputModule67:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-echinococcosis---secondary.py
+inputModule68:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-sporotrichosis---secondary.py
+inputModule69:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-melioidosis---secondary.py
+inputModule70:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-enterovirus---secondary.py
+inputModule71:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-cysticercosis---secondary.py
+inputModule72:
+  class: File
+  path: python/anogenital-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule73:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule74:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-pneumonia---secondary.py
+inputModule75:
+  class: File
+  path: python/nasopharyngeal-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule76:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-transmitted---secondary.py
+inputModule77:
+  class: File
+  path: python/secondary-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule78:
+  class: File
+  path: python/ocular-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule79:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-dermatitis---secondary.py
+inputModule80:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-description---secondary.py
+inputModule81:
+  class: File
+  path: python/pulmonary-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule82:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-meningococcaemia---secondary.py
+inputModule83:
+  class: File
+  path: python/urban-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule84:
+  class: File
+  path: python/typhoid-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule85:
+  class: File
+  path: python/spirochaetal-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule86:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-bordetella---secondary.py
+inputModule87:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-mycetoma---secondary.py
+inputModule88:
+  class: File
+  path: python/amoebic-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule89:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-perfringens---secondary.py
+inputModule90:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-rickettsioses---secondary.py
+inputModule91:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-complication---secondary.py
+inputModule92:
+  class: File
+  path: python/gastrointestinal-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule93:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-psittaci---secondary.py
+inputModule94:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-miliary---secondary.py
+inputModule95:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-hirudiniasis---secondary.py
+inputModule96:
+  class: File
+  path: python/mixed-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule97:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-rectum---secondary.py
+inputModule98:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-strept---secondary.py
+inputModule99:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-myiasis---secondary.py
+inputModule100:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-enterobiasis---secondary.py
+inputModule101:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-scarlet---secondary.py
+inputModule102:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-diphtheria---secondary.py
+inputModule103:
+  class: File
+  path: python/visceral-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule104:
+  class: File
+  path: python/erysipeloid-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule105:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-trachoma---secondary.py
+inputModule106:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-german---secondary.py
+inputModule107:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-organ---secondary.py
+inputModule108:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-pleurisy---secondary.py
+inputModule109:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-toxoplasmosis---secondary.py
+inputModule110:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-septicaemia---secondary.py
+inputModule111:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-neonatorum---secondary.py
+inputModule112:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-aspergillosis---secondary.py
+inputModule113:
+  class: File
+  path: python/initial-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule114:
+  class: File
+  path: python/symptomatic-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule115:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-phthiriasis---secondary.py
+inputModule116:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-stage---secondary.py
+inputModule117:
+  class: File
+  path: python/chancroid-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule118:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-nocardiosis---secondary.py
+inputModule119:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-cough---secondary.py
+inputModule120:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-mononucleosis---secondary.py
+inputModule121:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-scabies---secondary.py
+inputModule122:
+  class: File
+  path: python/urogenital-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule123:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-heart---secondary.py
+inputModule124:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-culture---secondary.py
+inputModule125:
+  class: File
+  path: python/primary-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule126:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-chlamydia---secondary.py
+inputModule127:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-ratbite---secondary.py
+inputModule128:
+  class: File
+  path: python/certain---secondary.py
+inputModule129:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-borderline---secondary.py
+inputModule130:
+  class: File
+  path: python/yellow-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule131:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-lymphogranuloma---secondary.py
+inputModule132:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-liver---secondary.py
+inputModule133:
+  class: File
+  path: python/listerial-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule134:
+  class: File
+  path: python/genitourinary-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule135:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-bones---secondary.py
+inputModule136:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-capsulati---secondary.py
+inputModule137:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-chickenpox---secondary.py
+inputModule138:
+  class: File
+  path: python/obstetrical-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule139:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-chaga---secondary.py
+inputModule140:
+  class: File
+  path: python/latent-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule141:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-ascariasis---secondary.py
+inputModule142:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-anthrax---secondary.py
+inputModule143:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-trichomoniasis---secondary.py
+inputModule144:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-smallpox---secondary.py
+inputModule145:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-infestation---secondary.py
+inputModule146:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-complicated---secondary.py
+inputModule147:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-dermatophytosis---secondary.py
+inputModule148:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-african---secondary.py
+inputModule149:
+  class: File
+  path: python/lepromatous-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule150:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-exanthem---secondary.py
+inputModule151:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-aureu---secondary.py
+inputModule152:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-carate---secondary.py
+inputModule153:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-strongyloidiasis---secondary.py
+inputModule154:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-measles---secondary.py
+inputModule155:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-louseborne---secondary.py
+inputModule156:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-herpe---secondary.py
+inputModule157:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-angiostrongyliasis---secondary.py
+inputModule158:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-diphyllobothriasis---secondary.py
+inputModule159:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-erysipela---secondary.py
+inputModule160:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-parvovirus---secondary.py
+inputModule161:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-cestode---secondary.py
+inputModule162:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-vivax---secondary.py
+inputModule163:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-bartonellosis---secondary.py
+inputModule164:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-corporis---secondary.py
+inputModule165:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-pneumocystosis---secondary.py
+inputModule166:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-bronchu---secondary.py
+inputModule167:
+  class: File
+  path: python/multiple-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule168:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-tetanus---secondary.py
+inputModule169:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-gastroenteritis---secondary.py
+inputModule170:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-pancreatitis---secondary.py
+inputModule171:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-trichinellosis---secondary.py
+inputModule172:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-pharyngitis---secondary.py
+inputModule173:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-meningitis---secondary.py
+inputModule174:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-yaws---secondary.py
+inputModule175:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-capitis---secondary.py
+inputModule176:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-sparganosis---secondary.py
+inputModule177:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-leprosy---secondary.py
+inputModule178:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-cholerae---secondary.py
+inputModule179:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-leishmaniasis---secondary.py
+inputModule180:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-rabies---secondary.py
+inputModule181:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-brugia---secondary.py
+inputModule182:
+  class: File
+  path: python/oculopathy-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule183:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-amoebiasis---secondary.py
+inputModule184:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-brucellosis---secondary.py
+inputModule185:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-fever---secondary.py
+inputModule186:
+  class: File
+  path: python/central-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule187:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-taenia---secondary.py
+inputModule188:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-generalized---secondary.py
+inputModule189:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-onchocerciasis---secondary.py
+inputModule190:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-mycoplasma---secondary.py
+inputModule191:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-sequelae---secondary.py
+inputModule192:
+  class: File
+  path: python/mucocutaneous-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule193:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-arthropodborne---secondary.py
+inputModule194:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-pneumonitis---secondary.py
+inputModule195:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-monkeypox---secondary.py
+inputModule196:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-brain---secondary.py
+inputModule197:
+  class: File
+  path: python/nonvenereal-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule198:
+  class: File
+  path: python/cerebral-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule199:
+  class: File
+  path: python/sylvatic-deaths-by-certain-infectious-and-parasitic-diseases-natural-cause---secondary.py
+inputModule200:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-bacillus---secondary.py
+inputModule201:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-poliomyelitis---secondary.py
+inputModule202:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-toxoplasma---secondary.py
+inputModule203:
+  class: File
+  path: python/deaths-by-certain-infectious-and-parasitic-diseases-natural-cause-vibrio---secondary.py
+inputModule204:
+  class: File
+  path: python/output-cases.py
